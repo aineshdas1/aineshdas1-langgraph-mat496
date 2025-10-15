@@ -16,3 +16,13 @@ In this lesson, I learned how to build a simple graph and understood the main pa
 What I Changed
 
 I created a simple LangGraph that checks the weather. Based on the condition, it gives a response depending on whether the weather is good or bad.
+
+Module 1 video 3
+
+What I learned:
+
+I learned about LangGraph Studio, which is an interactive tool for building, viewing, and debugging AI agent workflows created with LangGraph. It works with LangSmith so we can trace, test, and optimize prompts or graph runs in real time. I also learned that each module has a studio directory to help run the LangGraph Studio for that module.
+
+What I Changed:
+
+Since there was no notebook for this video, I followed the tutorial, ran LangGraph Studio on my laptop, and tested a few graph states. It worked as expected
