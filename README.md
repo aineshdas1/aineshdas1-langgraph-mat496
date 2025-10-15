@@ -26,3 +26,13 @@ I learned about LangGraph Studio, which is an interactive tool for building, vie
 What I Changed:
 
 Since there was no notebook for this video, I followed the tutorial, ran LangGraph Studio on my laptop, and tested a few graph states. It worked as expected
+
+Module 1 video 4
+
+Using Chat Messages and Tools in LangGraph
+
+What I learned:
+I learned how to use chat messages as the state in a LangGraph, how to bind a simple tool (like a weather function) to a chat model, and how the model can call that tool automatically based on user input. I also learned how to build a graph with nodes that process messages and append responses using a reducer.
+
+Changes I made:
+I created a small graph where a user can ask for the weather in a city. The graph node calls a chat model with a bound weather tool. I tested it with a human message asking about Delhi, and the model returned the appropriate weather response, which is appended to the messages state.
