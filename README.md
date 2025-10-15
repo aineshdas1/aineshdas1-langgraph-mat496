@@ -36,3 +36,17 @@ I learned how to use chat messages as the state in a LangGraph, how to bind a si
 
 Changes I made:
 I created a small graph where a user can ask for the weather in a city. The graph node calls a chat model with a bound weather tool. I tested it with a human message asking about Delhi, and the model returned the appropriate weather response, which is appended to the messages state.
+
+Module 1 video 5
+
+Routers and Conditional Tool Calls
+
+What I learned:
+I learned how to extend a LangGraph to act like a router. The chat model can now decide whether to return a natural language response or call a tool based on the user input. Conditional edges allow the graph to route automatically depending on the model’s output.
+
+Changes I made:
+I implemented a simple router graph that uses messages as state. It calls a tool when needed and otherwise returns a natural language response. I used:
+
+-A ToolNode for calling the multiply tool.
+
+-tools_condition as a conditional edge to route based on whether the output was a tool call.
