@@ -17,6 +17,7 @@ What I Changed
 
 I created a simple LangGraph that checks the weather. Based on the condition, it gives a response depending on whether the weather is good or bad.
 
+notebook link: https://github.com/aineshdas1/aineshdas1-langgraph-mat496/blob/main/module-1/simple-graph.ipynb
 
 Module 1 video 3
 
