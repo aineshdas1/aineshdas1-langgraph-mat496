@@ -42,6 +42,8 @@ I learned how to use chat messages as the state in a LangGraph, how to bind a si
 Changes I made:
 I created a small graph where a user can ask for the weather in a city. The graph node calls a chat model with a bound weather tool. I tested it with a human message asking about Delhi, and the model returned the appropriate weather response, which is appended to the messages state.
 
+notebook link: https://github.com/aineshdas1/aineshdas1-langgraph-mat496/blob/main/module-1/chain.ipynb
+
 Module 1 video 5
 
 Routers and Conditional Tool Calls
@@ -56,6 +58,8 @@ I implemented a simple router graph that uses messages as state. It calls a tool
 
 -tools_condition as a conditional edge to route based on whether the output was a tool call
 
+notebook link: https://github.com/aineshdas1/aineshdas1-langgraph-mat496/blob/main/module-1/router.ipynb
+
 Module 1 video 6
 
 Building a Generic Agent Architecture
@@ -64,5 +68,8 @@ In this lesson, I learned how to extend a simple router into a generic agent arc
 
 Changes I made:
 I implemented the generic agent architecture using three arithmetic tools—add, multiply, and divide—and connected them in a loop with the assistant node. I then tested it by asking a math question and verified that the model correctly invoked the tools in sequence to produce the right answer.
+
+notebook link: https://github.com/aineshdas1/aineshdas1-langgraph-mat496/blob/main/module-1/agent.ipynb
+
 ![Screenshot 2025-10-16 154418](https://github.com/user-attachments/assets/66f12cdb-3813-46f9-91ae-45fe5a0b752f)
 
