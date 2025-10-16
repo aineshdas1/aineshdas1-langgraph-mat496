@@ -17,6 +17,7 @@ What I Changed
 
 I created a simple LangGraph that checks the weather. Based on the condition, it gives a response depending on whether the weather is good or bad.
 
+
 Module 1 video 3
 
 What I learned:
@@ -49,4 +50,13 @@ I implemented a simple router graph that uses messages as state. It calls a tool
 
 -A ToolNode for calling the multiply tool.
 
--tools_condition as a conditional edge to route based on whether the output was a tool call.
+-tools_condition as a conditional edge to route based on whether the output was a tool call
+
+Module 1 video 6
+
+Building a Generic Agent Architecture
+
+In this lesson, I learned how to extend a simple router into a generic agent architecture using LangGraph. I understood how the model can decide whether to call a tool or respond directly, forming a loop between the assistant and the tools until the task is complete. This structure follows the ReAct framework—where the model reasons, acts using tools, and observes the results to decide the next step. I also learned how to visualize the entire graph using the Mermaid diagram feature to clearly see how the assistant and tools interact.
+
+Changes I made:
+I implemented the generic agent architecture using three arithmetic tools—add, multiply, and divide—and connected them in a loop with the assistant node. I then tested it by asking a math question and verified that the model correctly invoked the tools in sequence to produce the right answer.
