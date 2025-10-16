@@ -73,3 +73,18 @@ notebook link: https://github.com/aineshdas1/aineshdas1-langgraph-mat496/blob/ma
 
 ![Screenshot 2025-10-16 154418](https://github.com/user-attachments/assets/66f12cdb-3813-46f9-91ae-45fe5a0b752f)
 
+Module 1 video 7
+
+Agent with Memory
+
+What I learned:
+I learned how to add simple memory to a LangGraph agent. The agent can call tools to store and retrieve user preferences, then use those stored values later in the conversation. This creates a loop where the assistant acts, observes tool results, and reasons about the next step.
+
+What I changed:
+I built a small agent that stores preferences in a local memory store with two tools (set_pref and get_pref). I tested asking the agent to remember a favorite color and later to recall it. I also visualized the graph to confirm the assistant-to-tools loop works as expected.
+
+notebook link: https://github.com/aineshdas1/aineshdas1-langgraph-mat496/blob/main/module-1/agent-memory.ipynb
+
+![Screenshot 2025-10-16 171627](https://github.com/user-attachments/assets/1b22e172-9b6b-442a-8907-f0a94d663fb0)
+
+
