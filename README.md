@@ -28,6 +28,9 @@ What I Changed:
 
 Since there was no notebook for this video, I followed the tutorial, ran LangGraph Studio on my laptop, and tested a few graph states. It worked as expected
 
+![Screenshot 2025-10-16 024922](https://github.com/user-attachments/assets/18ce110c-af80-45ae-998b-7b5667979d3e)
+
+
 Module 1 video 4
 
 Using Chat Messages and Tools in LangGraph
@@ -60,3 +63,5 @@ In this lesson, I learned how to extend a simple router into a generic agent arc
 
 Changes I made:
 I implemented the generic agent architecture using three arithmetic tools—add, multiply, and divide—and connected them in a loop with the assistant node. I then tested it by asking a math question and verified that the model correctly invoked the tools in sequence to produce the right answer.
+![Screenshot 2025-10-16 154418](https://github.com/user-attachments/assets/66f12cdb-3813-46f9-91ae-45fe5a0b752f)
+
