@@ -108,3 +108,13 @@ What I changed: I created a shopping flow example where items are added to a car
 notebook link: https://github.com/aineshdas1/aineshdas1-langgraph-mat496/blob/main/module-2/state-reducers.ipynb
 
 
+Module 2 video 3
+
+What I learned
+I learned how to define typed schemas (TypedDicts) for overall and private state, how to declare a StateGraph with input and output schemas, and how to connect nodes that transform parts of the graph state.
+
+What I changed
+I adapted the example to show a thinking_node (simulating an intermediate private state) and an answer_node that builds a simple deterministic answer. I added a compact invocation so the output is clear.
+
+notebook link: https://github.com/aineshdas1/aineshdas1-langgraph-mat496/blob/main/module-2/multiple-schemas.ipynb
+
