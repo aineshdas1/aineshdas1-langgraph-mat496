@@ -88,3 +88,15 @@ notebook link: https://github.com/aineshdas1/aineshdas1-langgraph-mat496/blob/ma
 ![Screenshot 2025-10-16 171627](https://github.com/user-attachments/assets/1b22e172-9b6b-442a-8907-f0a94d663fb0)
 
 
+
+Module 2 video 1 
+
+What I learned:
+In this part, I learned how to define a custom state schema using the pydantic.BaseModel. The schema helps structure data as it passes through nodes in the graph. Each node updates or modifies parts of the state, making it easier to manage complex workflows.
+
+What I changed:
+I created a simple weather information flow where one node fetches the weather details and another displays it. The state schema (WeatherState) keeps track of the city, temperature, and weather status throughout the process.
+
+notebook link: https://github.com/aineshdas1/aineshdas1-langgraph-mat496/blob/main/module-2/state-schema.ipynb
+
+
