@@ -118,3 +118,19 @@ I adapted the example to show a thinking_node (simulating an intermediate privat
 
 notebook link: https://github.com/aineshdas1/aineshdas1-langgraph-mat496/blob/main/module-2/multiple-schemas.ipynb
 
+
+Module 2 video 4
+
+What I Learned
+
+I learned how to create a simple LangGraph chatbot using nodes and edges, and how to manage long conversations by trimming messages so the model sees only the most recent context. I also understood the difference between filtering and trimming messages.
+
+What I Changed
+
+I used a new conversation about planning a trip to Japan and implemented trimming based on the last four messages before sending them to the model. Now, it focuses on what was said recently without getting confused by the older messages
+
+notebook link: https://github.com/aineshdas1/aineshdas1-langgraph-mat496/blob/main/module-2/trim-filter-messages.ipynb
+
+![Screenshot 2025-10-23 014006](https://github.com/user-attachments/assets/8e517822-7e8c-46e6-a81d-9b0ca9c94681)
+
+
