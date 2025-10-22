@@ -134,3 +134,17 @@ notebook link: https://github.com/aineshdas1/aineshdas1-langgraph-mat496/blob/ma
 ![Screenshot 2025-10-23 014006](https://github.com/user-attachments/assets/8e517822-7e8c-46e6-a81d-9b0ca9c94681)
 
 
+Module 2 video 5
+
+What I learned
+I learned how to create a simple LangGraph that summarizes an entire chat conversation. I understood how to define a MessagesState, add a summarization node, connect the nodes, and invoke the graph to produce a summary using an LLM.
+
+What I changed
+I changed the example conversation to one related to my own chatbot project. I used the same summarization node logic from the notebook to generate a short summary of my custom messages.
+
+notebook link: https://github.com/aineshdas1/aineshdas1-langgraph-mat496/blob/main/module-2/chatbot-summarization.ipynb
+
+![Screenshot 2025-10-23 015011](https://github.com/user-attachments/assets/03f9aca0-a71c-425c-8c2e-1c13084f0afb)
+
+
+
