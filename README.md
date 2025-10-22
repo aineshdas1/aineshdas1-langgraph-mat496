@@ -99,4 +99,12 @@ I created a simple weather information flow where one node fetches the weather d
 
 notebook link: https://github.com/aineshdas1/aineshdas1-langgraph-mat496/blob/main/module-2/state-schema.ipynb
 
+Module 2 video 2 
+
+What I learned: In this notebook, I learned about state reducers, which allow multiple updates to be merged into a single state. Reducers are helpful when different nodes modify parts of the same state in sequence. 
+
+What I changed: I created a shopping flow example where items are added to a cart from different nodes — fruits and vegetables — before finally displaying the full cart at checkout. The reducer function add_item() helped update the shared cart state effectively.
+
+notebook link: https://github.com/aineshdas1/aineshdas1-langgraph-mat496/blob/main/module-2/state-reducers.ipynb
+
 
