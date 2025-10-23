@@ -147,4 +147,17 @@ notebook link: https://github.com/aineshdas1/aineshdas1-langgraph-mat496/blob/ma
 ![Screenshot 2025-10-23 015011](https://github.com/user-attachments/assets/03f9aca0-a71c-425c-8c2e-1c13084f0afb)
 
 
+Module 2 video 6
+
+What I Learned
+
+I learned how to create a LangGraph chatbot that can summarize conversations and remember previous messages using an external database. I also learned how to keep a running summary and selectively store only recent messages to manage memory.
+
+What I Changed
+
+I used a new conversation scenario where the chatbot remembers personal details and answers questions about them. I implemented summarization after more than six messages and used Sqlite to store the conversation so it can persist even if the notebook is restarted.
+
+notebook link: https://github.com/aineshdas1/aineshdas1-langgraph-mat496/blob/main/module-2/chatbot-external-memory.ipynb
+
+
 
