@@ -176,5 +176,21 @@ notebook link: https://github.com/aineshdas1/aineshdas1-langgraph-mat496/blob/ma
 ![Screenshot 2025-10-27 025823](https://github.com/user-attachments/assets/e0de27c2-2569-45ec-a8c5-a2ab50f7a3b1)
 
 
+Module 3 video 2
+
+Breakpoints
+
+What I learned:
+I learned how to pause execution using breakpoints inside LangGraph workflows. This helps inspect or debug what’s happening inside a node before continuing.
+
+What I changed:
+I added a simple breakpoint using input() that pauses before the model’s response. This shows how developers can stop the flow, check values, and then resume.
+
+notebook link: https://github.com/aineshdas1/aineshdas1-langgraph-mat496/blob/main/module-3/breakpoints.ipynb
+
+![Screenshot 2025-10-27 030739](https://github.com/user-attachments/assets/2f05e6b1-a290-4afb-94cf-c08887e08761)
+
+
+
 
 
