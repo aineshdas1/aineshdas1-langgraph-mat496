@@ -192,5 +192,23 @@ notebook link: https://github.com/aineshdas1/aineshdas1-langgraph-mat496/blob/ma
 
 
 
+Module 3 video 3
+
+Edit State and Human Feedback
+
+What I learned:
+I learned how human feedback can be used to edit or modify the state of a LangGraph workflow. It allows updating the model’s response based on user corrections, making the graph more interactive and adaptable.
+
+What I changed:
+I created a simple feedback node that lets me modify the AI’s reply manually after seeing it. If I say “yes,” it takes a new correction and updates the message before saving it.
+
+notebook link: https://github.com/aineshdas1/aineshdas1-langgraph-mat496/blob/main/module-3/edit-state-human-feedback.ipynb
+
+![Screenshot 2025-10-27 031345](https://github.com/user-attachments/assets/ba8e173c-d4f5-4894-bc02-333131834682)
+
+
+![Screenshot 2025-10-27 032622](https://github.com/user-attachments/assets/c9661dde-0201-4a8c-8bef-cdb49b3e905f)
+
+
 
 
