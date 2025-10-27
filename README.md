@@ -210,5 +210,21 @@ notebook link: https://github.com/aineshdas1/aineshdas1-langgraph-mat496/blob/ma
 ![Screenshot 2025-10-27 032622](https://github.com/user-attachments/assets/c9661dde-0201-4a8c-8bef-cdb49b3e905f)
 
 
+Module 3 video 4
+
+What I learned:
+I learned how dynamic breakpoints allow the chatbot to follow different paths depending on the conversation. The graph can automatically decide which node to go to next, making the flow feel more natural and context-aware.
+
+What I changed:
+I made my own example that switches between a food chat and a travel chat depending on the topic. It helped me understand how to use conditional edges to control the conversation flow.
+
+notebook link: https://github.com/aineshdas1/aineshdas1-langgraph-mat496/blob/main/module-3/dynamic-breakpoints.ipynb
+
+![Screenshot 2025-10-27 045101](https://github.com/user-attachments/assets/56a39bba-d4af-431b-9040-cf9c20556121)
+
+
+
+
+
 
 
