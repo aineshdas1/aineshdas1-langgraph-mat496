@@ -224,6 +224,21 @@ notebook link: https://github.com/aineshdas1/aineshdas1-langgraph-mat496/blob/ma
 
 
 
+Moule 3 video 5
+
+What I learned:
+I learned how “time travel” lets me look back at earlier conversation states. It helps in reusing or summarizing past messages so the chatbot can recall context when needed.
+
+What I changed:
+I created an example that summarizes older messages about Mars before ending the chat. This helped me understand how to access and process past conversation history inside a node.
+
+notebook link: https://github.com/aineshdas1/aineshdas1-langgraph-mat496/blob/main/module-3/time-travel.ipynb
+
+![Screenshot 2025-10-27 135533](https://github.com/user-attachments/assets/5ef61ff4-0d5b-4e75-90d0-c78047cd511c)
+
+![Screenshot 2025-10-27 135602](https://github.com/user-attachments/assets/336beb4a-7515-45b5-97b2-07328f3719d4)
+
+
 
 
 
