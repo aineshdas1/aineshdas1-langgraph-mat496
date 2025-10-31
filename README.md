@@ -276,6 +276,17 @@ notebook link: https://github.com/aineshdas1/aineshdas1-langgraph-mat496/blob/ma
 ![Screenshot 2025-10-31 212628](https://github.com/user-attachments/assets/9c89e0fa-fcdb-430e-b071-949002c6e92e)
 
 
+Module 4 video 4
+
+What I learned:
+In this notebook, I learned how to build a complete research assistant workflow using LangGraph. I understood how to connect nodes for searching the web, summarizing multiple results in parallel, and combining them into a final answer using map–reduce logic. I also learned how to visualize the workflow graphically to see how all components connect.
+
+What I changed:
+I added a web search node using TavilySearchResults so that the assistant could find real-time information online. I also created subgraphs to summarize each web result, and a reduce node to generate one final answer with a clear “Sources” section. The graph visualization helps understand the node flow and data movement clearly.
+
+notebook link: https://github.com/aineshdas1/aineshdas1-langgraph-mat496/blob/main/module-4/research-assistant.ipynb
+
+
 
 
 
