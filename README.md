@@ -263,6 +263,21 @@ notebook link: https://github.com/aineshdas1/aineshdas1-langgraph-mat496/blob/ma
 ![Screenshot 2025-10-31 203914](https://github.com/user-attachments/assets/774d934a-ec3e-43ef-9ff6-25ddd97dd5cc)
 
 
+Module 4 video 3
+
+What I learned
+I learned how the MapReduce pattern works in LangGraph — breaking a big task into smaller map steps, and then combining everything in the reduce step. It helps process multiple documents or items in parallel before merging the outputs.
+
+What I changed
+I replaced the sample arithmetic code with a document summarization example using map and reduce nodes. The map node summarizes each text, and the reduce node combines all summaries into one final result.
+
+notebook link: https://github.com/aineshdas1/aineshdas1-langgraph-mat496/blob/main/module-4/map-reduce.ipynb
+
+![Screenshot 2025-10-31 212628](https://github.com/user-attachments/assets/9c89e0fa-fcdb-430e-b071-949002c6e92e)
+
+
+
+
 
 
 
