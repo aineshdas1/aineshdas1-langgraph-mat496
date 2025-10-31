@@ -250,6 +250,21 @@ I created two simple nodes that calculate a square and a cube in parallel. Then,
 notebook link: https://github.com/aineshdas1/aineshdas1-langgraph-mat496/blob/main/module-4/parallelization.ipynb
 
 
+Module 4 video 2
+
+What I learned
+I learned how to create subgraphs in LangGraph. Subgraphs help keep workflows modular and reusable by breaking big graphs into smaller ones that can be reused inside other graphs.
+
+What I changed
+I built a small text processing subgraph that cleans and summarizes text. Then I called it from a main graph to process the input. This made me understand how nested workflows work in LangGraph.
+
+notebook link: https://github.com/aineshdas1/aineshdas1-langgraph-mat496/blob/main/module-4/sub-graph.ipynb
+
+![Screenshot 2025-10-31 203914](https://github.com/user-attachments/assets/774d934a-ec3e-43ef-9ff6-25ddd97dd5cc)
+
+
+
+
 
 
 
