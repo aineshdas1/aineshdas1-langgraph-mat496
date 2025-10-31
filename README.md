@@ -241,10 +241,10 @@ notebook link: https://github.com/aineshdas1/aineshdas1-langgraph-mat496/blob/ma
 
 Module 4 video 1
 
-What I learned
+What I learned:
 I learned how LangGraph can run multiple nodes in parallel to save time. Instead of waiting for one task to finish before starting another, both tasks run together and then join at a combine node.
 
-What I changed
+What I changed:
 I created two simple nodes that calculate a square and a cube in parallel. Then, a final node combines their results. This helped me understand parallel execution in graphs clearly.
 
 notebook link: https://github.com/aineshdas1/aineshdas1-langgraph-mat496/blob/main/module-4/parallelization.ipynb
@@ -252,10 +252,10 @@ notebook link: https://github.com/aineshdas1/aineshdas1-langgraph-mat496/blob/ma
 
 Module 4 video 2
 
-What I learned
+What I learned:
 I learned how to create subgraphs in LangGraph. Subgraphs help keep workflows modular and reusable by breaking big graphs into smaller ones that can be reused inside other graphs.
 
-What I changed
+What I changed:
 I built a small text processing subgraph that cleans and summarizes text. Then I called it from a main graph to process the input. This made me understand how nested workflows work in LangGraph.
 
 notebook link: https://github.com/aineshdas1/aineshdas1-langgraph-mat496/blob/main/module-4/sub-graph.ipynb
@@ -265,10 +265,10 @@ notebook link: https://github.com/aineshdas1/aineshdas1-langgraph-mat496/blob/ma
 
 Module 4 video 3
 
-What I learned
+What I learned:
 I learned how the MapReduce pattern works in LangGraph — breaking a big task into smaller map steps, and then combining everything in the reduce step. It helps process multiple documents or items in parallel before merging the outputs.
 
-What I changed
+What I changed:
 I replaced the sample arithmetic code with a document summarization example using map and reduce nodes. The map node summarizes each text, and the reduce node combines all summaries into one final result.
 
 notebook link: https://github.com/aineshdas1/aineshdas1-langgraph-mat496/blob/main/module-4/map-reduce.ipynb
