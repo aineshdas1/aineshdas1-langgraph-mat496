@@ -224,7 +224,7 @@ notebook link: https://github.com/aineshdas1/aineshdas1-langgraph-mat496/blob/ma
 
 
 
-Moule 3 video 5
+Module 3 video 5
 
 What I learned:
 I learned how “time travel” lets me look back at earlier conversation states. It helps in reusing or summarizing past messages so the chatbot can recall context when needed.
@@ -237,6 +237,18 @@ notebook link: https://github.com/aineshdas1/aineshdas1-langgraph-mat496/blob/ma
 ![Screenshot 2025-10-27 135533](https://github.com/user-attachments/assets/5ef61ff4-0d5b-4e75-90d0-c78047cd511c)
 
 ![Screenshot 2025-10-27 135602](https://github.com/user-attachments/assets/336beb4a-7515-45b5-97b2-07328f3719d4)
+
+
+Module 4 video 1
+
+What I learned
+I learned how LangGraph can run multiple nodes in parallel to save time. Instead of waiting for one task to finish before starting another, both tasks run together and then join at a combine node.
+
+What I changed
+I created two simple nodes that calculate a square and a cube in parallel. Then, a final node combines their results. This helped me understand parallel execution in graphs clearly.
+
+notebook link: https://github.com/aineshdas1/aineshdas1-langgraph-mat496/blob/main/module-4/parallelization.ipynb
+
 
 
 
